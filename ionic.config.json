@@ -1,0 +1,7 @@
+{
+  "name": "picker-v6-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
